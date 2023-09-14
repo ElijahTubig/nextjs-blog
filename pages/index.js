@@ -9,8 +9,19 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, my name is Jose Elijah Tubig, and I'm delighted to tell you a little bit about myself. As a dedicated IT student, I'm always fascinated by the digital world and its limitless possibilities.When I'm not studying, you can find me diving headfirst into the world of video games. Gaming is my ultimate escape and source of creativity, from immersive RPGs to fast-paced shooters.My heart beats in time with OPM. Filipino music's soulful melodies and relatable lyrics speak to me deeply, evoking feelings of nostalgia and pride.Burgers are my all-time favorite comfort food. I can't get enough of the combination of juicy patties, crisp vegetables, and flavorful sauces.
-</p>
+        <p>10 Things That Require Zero Talent</p>
+        <ul>
+        <li>1. Being on Time</li>
+        <li>2. Making An Effort</li>
+        <li>3. Being High Energy</li>
+        <li>4. Having A Positive Attitude</li>
+        <li>5. Being Passionate</li>
+        <li>6. Using Good Body Language</li>
+        <li>7. Being Coachable</li>
+        <li>8. Doing A Little Extra</li>
+        <li>9. Being Prepared</li>
+        <li>10. Having A Strong Work Ethic</li>
+        </ul>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
